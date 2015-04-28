@@ -19,7 +19,7 @@
               jdbcInterceptors="org.apache.tomcat.jdbc.pool.interceptor.ConnectionState;org.apache.tomcat.jdbc.pool.interceptor.StatementFinalizer"
               username="metaworks"
               password="daniel7"
-              driverClassName="com.mysql.jdbc.Driver"
+              driverClassName="com.mysql.jdbc.Driver" 
               url="173.194.235.141"/>
 
     <Resource name="jdbc/storage" 
