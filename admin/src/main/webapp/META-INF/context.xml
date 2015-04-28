@@ -22,7 +22,7 @@
               driverClassName="com.mysql.jdbc.Driver"
               url="173.194.235.141" />
 
-    <Resource name="jdbc/storage"
+    <Resource name="jdbc/storage" 
               auth="Container"
               type="javax.sql.DataSource"
               factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
