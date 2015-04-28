@@ -20,7 +20,7 @@
               username="metaworks"
               password="daniel7"
               driverClassName="com.mysql.jdbc.Driver"
-              url="173.194.235.141"/>
+              url="173.194.235.141" />
 
     <Resource name="jdbc/storage"
               auth="Container"
